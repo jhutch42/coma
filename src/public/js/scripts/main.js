@@ -38,6 +38,8 @@ const outputColor = blue;
 // Global Manager Instance
 let GM;
 
+
+
 function init() {
     GM = new GlobalManager();
     GM.startEnvironment();
